@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil! Sou um desenvolvedor em desenvolvimento! 😁
 
  <div>
    <a href="https://github.com/doriadev">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Entra em contato comigo pelas redes sociais abaixo!
+### Fale comigo pelas redes sociais!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
